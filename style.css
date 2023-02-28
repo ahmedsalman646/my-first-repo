@@ -1,0 +1,7 @@
+h1 {
+    background-color: rgba(221, 139, 32, 0.438);
+    color: blue;
+    border-radius: 20px;
+    display: inline;
+    padding: 20px;
+}
